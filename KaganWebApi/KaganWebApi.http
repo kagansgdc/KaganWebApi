@@ -1,0 +1,6 @@
+@KaganWebApi_HostAddress = http://localhost:5135
+
+GET {{KaganWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
